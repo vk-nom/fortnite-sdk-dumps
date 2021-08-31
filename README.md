@@ -8,3 +8,5 @@ Versions Listed Above:
 ```
 
 **I will be adding more later on**
+
+credits: android1337 and some kid on uc
